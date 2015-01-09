@@ -7,7 +7,7 @@
 	(princ "
 ")
 		(if (or (= i 7) (= i 5) )
-			(and 
+		(and 
 				(princ " THE CUBE OF ")
 				(princ i )
 				(princ " IS ")
