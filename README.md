@@ -1,2 +1,2 @@
 # LISP
-Varios programas cortos en lenguaje LISP
+Varios programas pequeños en lenguaje LISP
